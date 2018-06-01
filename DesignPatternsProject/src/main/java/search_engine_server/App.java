@@ -8,7 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "StartServer" );
+        System.out.println( "StartServer Eilon" );
         System.out.println("Check client push");
     }
 }
