@@ -14,7 +14,7 @@ public class Client extends Thread {
 		client.start();
 	}
 	
-
+	// Server Socket
 	private Socket ServerSocket = null;
 	private String query = null;
 	private Scanner reader = new Scanner(System.in);
