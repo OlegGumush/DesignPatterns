@@ -18,7 +18,7 @@ public class Client extends Thread {
 	private Socket ServerSocket = null;
 	private String query = null;
 	private Scanner reader = new Scanner(System.in);
-	private ObjectOutputStream writeToServer = null          ;
+	private ObjectOutputStream writeToServer = null;
     private ObjectInputStream readFromServer = null;
 	private static final int SERVER_PORT = 6789;
 	
