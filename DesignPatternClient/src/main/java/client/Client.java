@@ -6,7 +6,7 @@ import java.io.ObjectOutputStream;
 import java.net.Socket;
 import java.util.Scanner;
 
-
+// Client class
 public class Client extends Thread {
 	
 	public static void main(String[] args) {
