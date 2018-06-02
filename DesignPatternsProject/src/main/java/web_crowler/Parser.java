@@ -8,6 +8,6 @@ package web_crowler;
 public class Parser {
 
 	public Parser() {
-		System.out.println("oleg");
+		System.out.println("Eilon");
 	}
 }
